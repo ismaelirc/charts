@@ -1,5 +1,0 @@
-test: Hello
-environment: development
-labels:
-  app: TESTE
-  chart: ChartNAME
